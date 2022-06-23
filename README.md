@@ -33,6 +33,8 @@
 3) Data Cleaning
 4) Features Selection
 5) Pre-Processing
+6) Model Development (LSTM)
+7) Model Evaluation
 
 **Model evaluation** :
 
